@@ -1593,6 +1593,11 @@ body.students ul li.home-blog-post{
     height: 600px;
 }
 
+.excerpt {
+    overflow-y: scroll;
+    height: 150px;
+}
+
 .home-blog-post {
     float: left;
     width: 31%;
