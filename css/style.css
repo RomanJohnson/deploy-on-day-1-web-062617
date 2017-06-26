@@ -1591,6 +1591,7 @@ body.students .home-blog {
 body.students ul li.home-blog-post{
     list-style-type:none;
     height: 600px;
+    overflow-y: scroll;
 }
 
 .home-blog-post {
